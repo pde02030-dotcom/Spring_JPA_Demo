@@ -56,6 +56,11 @@
 	    <artifactId>lombok</artifactId>
 	    <version>1.18.38</version>
 	</dependency>
-		
+
+	<dependency>
+		<groupId>com.intheeast</groupId>
+		<artifactId>ch09</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
   </dependencies>
 </project>

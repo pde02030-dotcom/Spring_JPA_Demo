@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 public class JpaLifecycleMain {
 	
-	// transactional write behid queue!!!
+	// transactional write behind queue!!!
 	public static void addPersons(EntityManager em) {
 		
 		EntityTransaction et = em.getTransaction();
